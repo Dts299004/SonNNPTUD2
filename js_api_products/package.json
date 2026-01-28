@@ -1,0 +1,16 @@
+{
+  "name": "js-api-products",
+  "version": "1.0.0",
+  "description": "Simple product display using JS and API",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
